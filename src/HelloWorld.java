@@ -5,7 +5,8 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Code change on Git Demo Branch.");
 		System.out.println("This is to demo pull request.");
-		System.out.println("Branch update merge conflict.");
+		System.out.println("This is updated on GitHub.");
+
 	}
 
 }
