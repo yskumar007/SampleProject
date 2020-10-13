@@ -16,4 +16,13 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>6.7.0</version>
+    <scope>test</scope>
+</dependency>
+
+  </dependencies>
 </project>
